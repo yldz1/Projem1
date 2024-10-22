@@ -1,0 +1,72 @@
+.font {
+    font-size: 25px;
+    color: black;
+}
+
+.btn {
+    background-color: #FF4E88;
+}
+
+.navbar {
+    background-color: #FF8C9E;
+}
+
+.btn {
+    color: white;
+
+}
+
+.baslık {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #D91656;
+    text-align: center;
+    line-height: 1.3;
+}
+
+.baslık:hover {
+    color: #921A40;
+    /* Üzerine gelindiğinde WhatsApp yeşiliyle değişen renk */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    /* Hover'da gölgeyi artır */
+}
+
+.pictures {
+    margin-left: -45px;
+}
+
+.salon {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #D91656;
+    text-align: center;
+    line-height: 1.3;
+}
+
+.salon:hover {
+    color: #921A40;
+    /* Üzerine gelindiğinde WhatsApp yeşiliyle değişen renk */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    /* Hover'da gölgeyi artır */
+}
+
+.offer {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #E90074;
+    text-align: center;
+    line-height: 1.3;
+}
+
+.offer:hover {
+    text-shadow: 2px 2px 4px;
+}
